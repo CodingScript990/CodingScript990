@@ -4,13 +4,15 @@
 
 ✔ 💻(Level) - Final Level : 5
 
-1. Java [Basic] 💻💻💻
-2. HTML:5 💻💻💻💻
-3. CSS:3 💻💻💻
-4. JavaScript (Es6) 💻💻💻
-5. Python [Basic] 💻💻
-6. ReactJS 💻💻
-7. Flask 💻💻
+1. Java [Basic] 💻💻💻 [-ing]
+2. HTML:5 💻💻💻💻 [-ing]
+3. CSS:3 💻💻💻 [-ing]
+4. JavaScript (Es6) 💻💻💻 [-ing]
+5. Python [Basic] 💻💻 [-ing]
+6. ReactJS 💻💻 [-ing]
+7. Flask 💻💻 [-ing]
+
+✅ ##My future plans
 
 <!--
 **CodingScript990/CodingScript990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
