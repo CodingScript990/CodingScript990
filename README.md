@@ -12,7 +12,12 @@
 6. ReactJS 💻💻 [-ing]
 7. Flask 💻💻 [-ing]
 
-✅ ##My future plans
+## My future plans
+
+[Mini_Project]
+
+1. Create a student information search program [☕Java☕]
+
 
 <!--
 **CodingScript990/CodingScript990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
