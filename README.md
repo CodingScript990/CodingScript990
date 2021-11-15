@@ -10,8 +10,7 @@
 4. JavaScript (Es6) 💻💻💻 [-ing]
 5. Python [Basic] 💻💻 [-ing]
 6. ReactJS 💻💻 [-ing]
-7. Flask 💻💻 [-ing]
-8. Git 💻💻💻💻 [-ing]
+7. Git 💻💻💻💻 [-ing]
 
 ## My future plans
 
