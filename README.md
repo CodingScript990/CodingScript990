@@ -11,6 +11,7 @@
 5. Python [Basic] 💻💻 [-ing]
 6. ReactJS 💻💻 [-ing]
 7. Flask 💻💻 [-ing]
+8. Git 💻💻💻💻 [-ing]
 
 ## My future plans
 
