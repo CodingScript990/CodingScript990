@@ -26,9 +26,9 @@
 - 💬 Ask me about?
   -> I am studying English and I am completing a web app development course at an IT academy to become a web developer. It is currently in progress and is a full-stack course, but I decided on my career path while studying. I chose the main major as the web backend, and I choose a  Java is the backend language. However, I want to study JavaScript and become a developer who can utilize various backends! 👍
 - 📫 How to reach me: 
-  -> 1. E-mail : a41787192@gmail.com
-  -> 2. Instagram(DM) : webdev_km
-  -> 3. Phone : ...
+  -> 1. E-mail : a41787192@gmail.com <br/>
+  -> 2. Instagram(DM) : webdev_km <br/>
+  -> 3. Phone : ... <br/>
 - 😄 Pronouns: I smile well, listen to people well, and very social! I think my specialty is to make two friends when I get close. Come to think of it, I often think I look like a chameleon! The reason seems to be that I usually act according to the environment! What I always want to have fun living is my life history! XD
 - ⚡ Fun fact: It's fun because I have to study English, develop it, and have a lot to do!😂
 
