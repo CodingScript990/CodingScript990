@@ -25,7 +25,7 @@
 - 🤔 I will leave a message on Issue about how to study the backend, so I would appreciate it if you could leave a comment. I'm a person who wants to help others equally if I get help. Please tell me about the backend knowledge! Sharing is love! Thank u!
 - 💬 Ask me about?
   -> I am studying English and I am completing a web app development course at an IT academy to become a web developer. It is currently in progress and is a full-stack course, but I decided on my career path while studying. I chose the main major as the web backend, and I choose a  Java is the backend language. However, I want to study JavaScript and become a developer who can utilize various backends! 👍
-- 📫 How to reach me: 
+- 📫 How to reach me: <br/>
   -> 1. E-mail : a41787192@gmail.com <br/>
   -> 2. Instagram(DM) : webdev_km <br/>
   -> 3. Phone : ... <br/>
