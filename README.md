@@ -16,7 +16,7 @@
 
 [Mini_Project]
 
-1. Create a student information search program [☕Java☕] → (Planning)
+1. Maybe? XD
 
 ## [My daily life in progress]
 
