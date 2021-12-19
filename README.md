@@ -16,7 +16,8 @@
 
 [Mini_Project]
 
-1. Game Community
+1. 🎮 Game Community 🎮
+- It is in progress with two people. [FE(1) / BE(1)]
 
 ## [My daily life in progress]
 
