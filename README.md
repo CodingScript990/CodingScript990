@@ -6,7 +6,7 @@
 
 1. Java [Basic] 💻💻💻 [-ing]
 2. HTML:5 💻💻💻💻 [-ing]
-3. CSS:3 💻💻💻 [-ing]
+3. <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 💻💻💻 [-ing]
 4. <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> [-ing]
 5. <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> [-ing]
 6. ReactJS 💻💻 [-ing]
