@@ -4,19 +4,19 @@
 
 ✔ 💻(Level) - Final Level : 5
 
-1. Java [Basic] 💻💻💻 [-ing]
-2. HTML:5 💻💻💻💻 [-ing]
-3. <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 💻💻💻 [-ing]
+1. <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> [-ing]
+2. <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> [-ing]
+3. <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> [-ing]
 4. <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> [-ing]
 5. <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> [-ing]
-6. ReactJS 💻💻 [-ing]
-7. Git 💻💻💻💻 [-ing]
+6. <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=ReactJS&logoColor=white"/> [-ing]
+7. <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/> [-ing]
 
 ## My future plans
 
 [Mini_Project]
 
-1. Maybe? XD
+1. Game Community
 
 ## [My daily life in progress]
 
