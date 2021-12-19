@@ -7,11 +7,11 @@
 1. Java [Basic] 💻💻💻 [-ing]
 2. HTML:5 💻💻💻💻 [-ing]
 3. CSS:3 💻💻💻 [-ing]
-4. JavaScript (Es6) 💻💻💻 [-ing]
-5. Python [Basic] 💻💻 [-ing]
+4. <img src="https://img.shields.io/badge/?JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/> 💻💻💻 [-ing]
+5. <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> [-ing]
 6. ReactJS 💻💻 [-ing]
 7. Git 💻💻💻💻 [-ing]
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 ## My future plans
 
 [Mini_Project]
