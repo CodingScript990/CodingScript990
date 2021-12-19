@@ -2,7 +2,7 @@
 
 [Studing]
 
-✔ 💻(Level) - Final Level : 5
+✔ Skills that I'm studying 😎
 
 1. <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> [-ing]
 2. <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> [-ing]
