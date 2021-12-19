@@ -12,9 +12,7 @@
 6. <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=ReactJS&logoColor=white"/> [-ing]
 7. <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/> [-ing]
 
-## My future plans
-
-[Mini_Project]
+## 💻 The project is in progress.. 💻 
 
 1. 🎮 Game Community 🎮
 - It is in progress with two people. [FE(1) / BE(1)]
