@@ -11,7 +11,7 @@
 5. Python [Basic] 💻💻 [-ing]
 6. ReactJS 💻💻 [-ing]
 7. Git 💻💻💻💻 [-ing]
-
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 ## My future plans
 
 [Mini_Project]
