@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=250&section=header&text=MinWooKim%21&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=MinWooKim%21&fontSize=80)
 
 <strong>[Studing]</strong>
 
