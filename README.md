@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=MinWooKim%21&fontSize=80)
 
 <div align="center">
-  <h2>[🎮Studing🎮]</h2>
+  <h2>[🎮Skills🎮]</h2>
 </div>
 
 <p align="center">✔ Skills that I'm studying 😎</p>
