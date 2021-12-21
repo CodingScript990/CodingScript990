@@ -28,9 +28,9 @@
   -> [Backend-Story](https://github.com/CodingScript990/Backend-Story/issues) <br/>
 - 💬 Ask me about?
   -> I am studying English and I am completing a web app development course at an IT academy to become a web developer. It is currently in progress and is a full-stack course, but I decided on my career path while studying. I chose the main major as the web backend, and I choose a  Java is the backend language. However, I want to study JavaScript and become a developer who can utilize various backends! 👍 <br/> <p align="center"><img src="https://user-images.githubusercontent.com/70142090/142751593-fdfa55e2-408e-4fde-a36c-307a12863ed1.gif" width="450" height="300"></p>
-- 📫 How to reach me: <br/>
-  -> 1. [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a41787192@gmail.com)](mailto:a41787192@gmail.com) <br/>
-  -> 2. <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> : webdev_km <br/>
-  -> 3. <img src="https://img.shields.io/badge/Phone-30B980?style=flat-square&logo=Phone&logoColor=white"/> <br/>
+- 📫 How to reach me: <br/>  
+  ✉ : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a41787192@gmail.com)](mailto:a41787192@gmail.com)  
+  💬 : <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> : webdev_km <br/>
+  📞 : <img src="https://img.shields.io/badge/Phone-30B980?style=flat-square&logo=Phone&logoColor=white"/>
 - 😄 Pronouns: I smile well, listen to people well, and very social! I think my specialty is to make two friends when I get close. Come to think of it, I often think I look like a chameleon! The reason seems to be that I usually act according to the environment! What I always want to have fun living is my life history! XD
 - ⚡ Fun fact: It's fun because I have to study English, develop it, and have a lot to do!😂
