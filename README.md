@@ -58,9 +58,9 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/70142090/142751583-905f3ab7-3902-491b-9609-cb8f3795248c.gif" width="350" height="300"></p>
 <h3>Contact Information</h3>
 <div>
-  <a href="a41787192@gmail.com">
-      <img 
-          src="http://img.shields.io/badge/-Gmail-E1E4E4?style=flat&logo=Gmail&link=a41787192@gmail.com"
+  <a href="https://a41787192@gmail.com">
+    <img 
+          src="http://img.shields.io/badge/-Gmail-FBFCFD?style=flat&logo=Gmail&link=https://a41787192@gmail.com"
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   <a href="https://www.instagram.com/webdev_km/">
