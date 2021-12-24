@@ -1,36 +1,86 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=MinWooKim%21&fontSize=80)
 
 <div align="center">
-  <h2>[🎮Skills🎮]</h2>
+  <h2>[Main Stack]</h2>
+  <image src="https://user-images.githubusercontent.com/70142090/147306269-6c1d89c6-ff9c-4755-8040-1c0a79de2673.png" height="50">
+  <image src="https://user-images.githubusercontent.com/70142090/147306626-dec2339a-9dc3-45b4-959b-650d0237e437.png" height="50">
+  <image src="https://user-images.githubusercontent.com/70142090/147307003-4c0bfa08-c916-4ca0-bbf1-65b90c577bb6.png" height="50">
 </div>
-
-<p align="center">✔ Skills that I'm studying 😎</p>
-<p align="center"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=ReactJS&logoColor=white"/> <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/></p>
+<div align="center">
+  <h2>[Sub Stack]</h2>
+  <image src="https://user-images.githubusercontent.com/70142090/147307548-dcd4e75e-6b9b-4582-a39f-f63bf5b9396f.png" height="50">
+  <image src="https://user-images.githubusercontent.com/70142090/147308068-10b6aa13-af97-4aed-b01e-c81e6d797fb0.png" height="50">
+  <image src="https://user-images.githubusercontent.com/70142090/147307970-26606262-a232-4f2d-9f3d-4d2093ef3252.png" height="50">
+</div>
 <div align="center">
   
-![MinWooKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingScript990&show_icons=true&theme=radical)
-</div>
+![MinWooKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingScript990&show_icons=true&theme=Gradient)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingScript990&layout=compact&hieght=100)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 <div align="center">
-  <h2> 💻 The project is in progress.. 💻 </h2>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ABC5F1&title_bg=%2373C6E5&icon=&icon_color=%2372BED9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
-<p align="center">
-1. 🎮 Game Community 🎮 [Dec.18.2021 ~ ing]
-- It is in progress with two people. [FE(1) / BE(1)]
-</p>
-<div align="center"> 
-  <h2>[My daily life in progress]</h2>
+<div align="center">
+  <h2> 💻 The project is in progress 💻 </h2>
+</div>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Content</th>
+        <th>Personnel</th>
+        <th>Period</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Gameoim</td>
+        <td>🎮 Game Community 🎮</td>
+        <td>FE(1) / BE(1) [2]</td>
+        <td>Dec.18.2021 ~ ing</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
-- 🔭 Currently, I am participating in a state-supported web app developer training program. It is not a place to develop, but a place to study to become a developer. Java is the main, and studying the development of front-end, back-end, and Android. <p align="center"><img src="https://user-images.githubusercontent.com/70142090/142751583-905f3ab7-3902-491b-9609-cb8f3795248c.gif" width="350" height="300"></p>
-- 🌱 I’m currently learning to Java programming language. And I'm studying about the web, but among them, I'm mainly studying about the backend.
-- 🤔 I will leave a message on Issue about how to study the backend, so I would appreciate it if you could leave a comment. I'm a person who wants to help others equally if I get help. Please tell me about the backend knowledge! Sharing is love! Thank u!<br/>
-  -> [Backend-Story](https://github.com/CodingScript990/Backend-Story/issues) <br/>
-- 💬 Ask me about?
-  -> I am studying English and I am completing a web app development course at an IT academy to become a web developer. It is currently in progress and is a full-stack course, but I decided on my career path while studying. I chose the main major as the web backend, and I choose a  Java is the backend language. However, I want to study JavaScript and become a developer who can utilize various backends! 👍 <br/> <p align="center"><img src="https://user-images.githubusercontent.com/70142090/142751593-fdfa55e2-408e-4fde-a36c-307a12863ed1.gif" width="450" height="300"></p>
-- 📫 How to reach me: <br/>  
-  ✉ : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a41787192@gmail.com)](mailto:a41787192@gmail.com)  
-  💬 : <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> : webdev_km <br/>
-  📞 : <img src="https://img.shields.io/badge/Phone-30B980?style=flat-square&logo=Phone&logoColor=white"/>
-- 😄 Pronouns: I smile well, listen to people well, and very social! I think my specialty is to make two friends when I get close. Come to think of it, I often think I look like a chameleon! The reason seems to be that I usually act according to the environment! What I always want to have fun living is my life history! XD
-- ⚡ Fun fact: It's fun because I have to study English, develop it, and have a lot to do!😂
+<div align="center"> 
+  <h2>[Brief Self-Introduction]</h2>
+</div>
+<h3>Who?🤔</h3>
+<p>
+  I don't have a good sense of using tools for design, but I'm <strong>Front-End Developer Kim Min-woo</strong>, who always develops with the idea of an artist when writing code. I think the 
+  code is not just for showing the client, but for expressing my philosophy and art. Since knowing the fun of coding, I have been moving toward self-development and constant 
+  challenging spirit to become a front-end developer.
+</p> 
+<p align="center"><img src="https://user-images.githubusercontent.com/70142090/142751583-905f3ab7-3902-491b-9609-cb8f3795248c.gif" width="350" height="300"></p>
+<h3>Contact Information</h3>
+<div>
+  <a href="a41787192@gmail.com">
+      <img 
+          src="http://img.shields.io/badge/-Gmail-E1E4E4?style=flat&logo=Gmail&link=a41787192@gmail.com"
+          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  <a href="https://www.instagram.com/webdev_km/">
+      <img 
+          src="http://img.shields.io/badge/-Instagram-EAD3F1?style=flat&logo=Instagram&link=https://www.instagram.com/webdev_km/"
+          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  <a href="https://code-source.tistory.com/">
+      <img 
+          src="http://img.shields.io/badge/-Tistory-F7DDEF?style=flat&logo=Tumblr&link=https://code-source.tistory.com/"
+          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+</div>
+
+<div>
+  <h3>What kind of person are you?</h3>
+  <p>
+    I think we can create a good atmosphere around us with positive thoughts and minds, and we have excellent social skills. I can always cooperate with people and handle things responsibly with a bright smile. I think there are still many things to supplement for the problem-solving ability that is a little insufficient. I understand that the important thing to become a developer is a problem-solving ability developer. In order to fill in the lack of problem-solving skills, we are experiencing as many small to big problems as possible, finding ways to make them mine, and filling in ways to review and compensate for the shortcomings.
+  </p>
+</div>
+
+ <p align="center"><img src="https://user-images.githubusercontent.com/70142090/142751593-fdfa55e2-408e-4fde-a36c-307a12863ed1.gif" width="450" height="300"></p>
+ 
