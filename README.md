@@ -36,7 +36,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>Gameoim</td>
+        <td><a href="https://github.com/gamemoim">Gameoim</a></td>
         <td>🎮 Game Community 🎮</td>
         <td>FE(1) / BE(1) [2]</td>
         <td>Dec.18.2021 ~ ing</td>
