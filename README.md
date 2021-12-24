@@ -18,9 +18,8 @@
 ![MinWooKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingScript990&show_icons=true&theme=Gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingScript990&layout=compact&hieght=100)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ABC5F1&title_bg=%2373C6E5&icon=&icon_color=%2372BED9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center"> 
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCodingScript990%2Fhit-counter&count_bg=%23D0EBE9&title_bg=%23BDBAE5&icon=github.svg&icon_color=%23F9E9E9&title=hits&edge_flat=false"/></a>
 </div>
 <div align="center">
   <h2> 💻 The project is in progress 💻 </h2>
@@ -58,7 +57,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/70142090/142751583-905f3ab7-3902-491b-9609-cb8f3795248c.gif" width="350" height="300"></p>
 <h3>Contact Information</h3>
 <div>
-  <a href="https://a41787192@gmail.com">
+  <a href="mailto: a41787192@gmail.com">
     <img 
           src="http://img.shields.io/badge/-Gmail-FBFCFD?style=flat&logo=Gmail&link=https://a41787192@gmail.com"
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
