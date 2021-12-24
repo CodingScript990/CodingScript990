@@ -50,10 +50,10 @@
 </div>
 <h3>Who?🤔</h3>
 <p>
-  I don't have a good sense of using tools for design, but I'm <strong>Front-End Developer Kim Min-woo</strong>, who always develops with the idea of an artist when writing code. I think the 
+I don't have a good sense of using tools for design, but I'm <strong>Front-End Developer Kim Min-woo,</strong> who always develops with the idea of an artist when writing code. I think the 
   code is not just for showing the client, but for expressing my philosophy and art. Since knowing the fun of coding, I have been moving toward self-development and constant 
   challenging spirit to become a front-end developer.
-</p> 
+</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/70142090/142751583-905f3ab7-3902-491b-9609-cb8f3795248c.gif" width="350" height="300"></p>
 <h3>Contact Information</h3>
 <div>
@@ -82,4 +82,3 @@
 </div>
 
  <p align="center"><img src="https://user-images.githubusercontent.com/70142090/142751593-fdfa55e2-408e-4fde-a36c-307a12863ed1.gif" width="450" height="300"></p>
- 
