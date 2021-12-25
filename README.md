@@ -9,8 +9,8 @@
 <div align="center">
   <h2>[Sub Stack]</h2>
   <image src="https://user-images.githubusercontent.com/70142090/147307548-dcd4e75e-6b9b-4582-a39f-f63bf5b9396f.png" height="50">
-  <image src="https://user-images.githubusercontent.com/70142090/147308068-10b6aa13-af97-4aed-b01e-c81e6d797fb0.png" height="50">
-  <image src="https://user-images.githubusercontent.com/70142090/147307970-26606262-a232-4f2d-9f3d-4d2093ef3252.png" height="50">
+  <image src="https://user-images.githubusercontent.com/70142090/147308068-10b6aa13-af97-4aed-b01e-c81e6d797fb0.png" height="50"> &nbsp;&nbsp;
+  <image src="https://user-images.githubusercontent.com/70142090/147307970-26606262-a232-4f2d-9f3d-4d2093ef3252.png" height="50"> 
 </div>
 <br/>
 <div align="center">
