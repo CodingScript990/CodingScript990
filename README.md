@@ -27,31 +27,24 @@
         <th>Content</th>
         <th>Personnel</th>
         <th>Period</th>
+        <th>Blog</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/gamemoim">Gameoim</a></td>
-        <td>🎮 Game Community 🎮</td>
-        <td>FE(1) / BE(1) [2]</td>
-        <td>Dec.18.2021 ~ ing</td>
+        <td><a href="https://github.com/CodingScript990/eShop">eShop[React]</a></td>
+        <td>🏷판매자가 관리하기 용이한 서비스🏷</td>
+        <td>FE/BE [1]</td>
+        <td>03.29.2022 ~ 04.06.2022</td>
+        <td><a href="https://code-source.tistory.com/105">기술 블로그</a></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<div align="center"> 
-  <h2>[Brief Self-Introduction]</h2>
-</div>
-<h3>Who?🤔</h3>
-<p>
-I don't have a good sense of using tools for design, but I'm <strong>Front-End Developer Kim Min-woo,</strong> who always develops with the idea of an artist when writing code. I think the 
-  code is not just for showing the client, but for expressing my philosophy and art. Since knowing the fun of coding, I have been moving toward self-development and constant 
-  challenging spirit to become a front-end developer.
-</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/70142090/142751583-905f3ab7-3902-491b-9609-cb8f3795248c.gif" width="350" height="300"></p>
-<h3>Contact Information</h3>
-<div>
+<h2 align="center">Contact Information</h3>
+<div align="center">
   <a href="mailto: a41787192@gmail.com">
     <img 
           src="http://img.shields.io/badge/-Gmail-FBFCFD?style=flat&logo=Gmail&link=https://a41787192@gmail.com"
@@ -68,12 +61,8 @@ I don't have a good sense of using tools for design, but I'm <strong>Front-End D
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
 </div>
-
+<br/>
 <div>
-  <h3>What kind of person are you?</h3>
-  <p>
-    I think we can create a good atmosphere around us with positive thoughts and minds, and we have excellent social skills. I can always cooperate with people and handle things responsibly with a bright smile. I think there are still many things to supplement for the problem-solving ability that is a little insufficient. I understand that the important thing to become a developer is a problem-solving ability developer. In order to fill in the lack of problem-solving skills, we are experiencing as many small to big problems as possible, finding ways to make them mine, and filling in ways to review and compensate for the shortcomings.
-  </p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/70142090/142751593-fdfa55e2-408e-4fde-a36c-307a12863ed1.gif" width="450" height="300"></p>    
 </div>
-
- <p align="center"><img src="https://user-images.githubusercontent.com/70142090/142751593-fdfa55e2-408e-4fde-a36c-307a12863ed1.gif" width="450" height="300"></p>
+ 
