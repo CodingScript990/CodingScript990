@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=MinWooKim%21&fontSize=80)
 
 <div align="center">
-  <h2>[Main Stack]</h2>
-  <image src="https://user-images.githubusercontent.com/70142090/147306269-6c1d89c6-ff9c-4755-8040-1c0a79de2673.png" height="50">
-  <image src="https://user-images.githubusercontent.com/70142090/147306626-dec2339a-9dc3-45b4-959b-650d0237e437.png" height="50">
-  <image src="https://user-images.githubusercontent.com/70142090/147307003-4c0bfa08-c916-4ca0-bbf1-65b90c577bb6.png" height="50">
-    <image src="https://user-images.githubusercontent.com/70142090/147308068-10b6aa13-af97-4aed-b01e-c81e6d797fb0.png" height="50">
+  #<h2>[Main Stack]</h2>
+  #<image src="https://user-images.githubusercontent.com/70142090/147306269-6c1d89c6-ff9c-4755-8040-1c0a79de2673.png" height="50">
+  #<image src="https://user-images.githubusercontent.com/70142090/147306626-dec2339a-9dc3-45b4-959b-650d0237e437.png" height="50">
+  #<image src="https://user-images.githubusercontent.com/70142090/147307003-4c0bfa08-c916-4ca0-bbf1-65b90c577bb6.png" height="50">
+  #<image src="https://user-images.githubusercontent.com/70142090/147308068-10b6aa13-af97-4aed-b01e-c81e6d797fb0.png" height="50">
 </div>
 <br/>
 <div align="center">
